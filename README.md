@@ -8,3 +8,8 @@
 > - **Netlify**: <https://mediatefrystal.netlify.app/>
 >
 > - **Cloudflare Pages**: <https://mfw-83d.pages.dev/>
+
+---
+
+**Archive:  
+2024-9-16 <https://72a7a251.mfw-83d.pages.dev/>
